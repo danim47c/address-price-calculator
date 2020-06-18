@@ -1,0 +1,1 @@
+GET https://nominatim.openstreetmap.org/search?q=Calle+Ribera+del+Carrión&format=json
