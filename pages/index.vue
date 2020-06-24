@@ -24,7 +24,7 @@
               />
             </v-toolbar>
 
-            <v-card-text v-text="'Price: ' + (result + '$' || 'Undefined')" />
+            <v-card-text v-text="'Price: ' + (result ? result + '$' : 'There isnt price for that address')" />
           </v-card>
         </v-col>
       </v-row>
