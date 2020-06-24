@@ -70,7 +70,7 @@ export default {
       loading: false,
       address: '',
       data: [],
-      result: '',
+      result: undefined,
       dialog: false
     }
   },
