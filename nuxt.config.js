@@ -5,7 +5,7 @@ export default {
 
   head: {
     titleTemplate: '%s',
-    title: 'Address Calculator',
+    title: 'The Delivery Fee',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
