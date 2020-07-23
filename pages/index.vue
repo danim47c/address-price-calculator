@@ -2,7 +2,7 @@
   <v-card flat>
     <v-toolbar color="primary" extended flat>
       <v-toolbar-title class="white--text mt-2 mx-auto display-1"
-        >Address Price Calculator</v-toolbar-title
+        >The Delivery Fee</v-toolbar-title
       >
     </v-toolbar>
 
